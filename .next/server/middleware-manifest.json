@@ -1,13 +1,6 @@
 {
-<<<<<<< HEAD
   "sortedMiddleware": [],
   "middleware": {},
   "functions": {},
   "version": 2
-=======
-  "version": 3,
-  "middleware": {},
-  "functions": {},
-  "sortedMiddleware": []
->>>>>>> a3dea66932e55181ede1d640140969c84f60d64d
 }

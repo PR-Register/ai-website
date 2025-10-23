@@ -58,9 +58,9 @@ const Footer_01 = () => {
           <div className='flex flex-col gap-y-6'>
             <Link href='/' className='inline-block'>
               <Image
-                src='/assets/img_placeholder/th-1/logo.png'
+                src='/assets/img_placeholder/hidental-logo.png'
                 alt='logo'
-                width={96}
+                width={125}
                 height={24}
               />
             </Link>
@@ -69,10 +69,7 @@ const Footer_01 = () => {
               business challenges &amp; decision-makers with data-driven
               insights, and enhance user experiences across digital platforms.
             </p>
-            <p>
-              Website:{' '}
-              <Link href='https://www.example.com'>www.example.com</Link>
-            </p>
+           
           </div>
           {/* Footer Widget */}
           {/* Footer Widget */}
@@ -212,7 +209,7 @@ const Footer_01 = () => {
         <div className='py-9 text-center'>
           <p>
             © Copyright {new Date().getFullYear()}, All Rights Reserved by
-            Favdevs
+            Hidental 
           </p>
         </div>
         {/* Footer Bottom */}
