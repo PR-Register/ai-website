@@ -1,11 +1,11 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import logo from '../../public/assets/img_placeholder/logo-light.png';
+import logo from '../../public/assets/img_placeholder/hidental-logo.png';
 
 const LogoLight = () => {
   return (
     <Link href='/'>
-      <Image src={logo} alt='AIMass' width='96' height='24' />
+      <Image src={logo} alt='AIMass' width='125' height='24' />
     </Link>
   );
 };

@@ -292,7 +292,7 @@ const Footer_02 = () => {
               <div className='flex flex-wrap items-center justify-center gap-5 text-center md:justify-between md:text-left'>
                 <Link href='/'>
                   <Image
-                    src='/assets/img_placeholder/logo-light.png'
+                    src='/assets/img_placeholder/hidental-logo-white.png'
                     alt='logo-light'
                     width={111}
                     height={23}
@@ -300,7 +300,7 @@ const Footer_02 = () => {
                 </Link>
                 <p>
                   © Copyright {new Date().getFullYear()}, All Rights Reserved by
-                  Favdevs
+                 <strong> HiDental</strong>
                 </p>
               </div>
             </div>

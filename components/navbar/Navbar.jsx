@@ -80,35 +80,13 @@ const Navbar = ({ mobileMenu, setMobileMenu, color }) => {
           {/* Global navbar */}
           <li
             onClick={(e) => handleSubMenu(e, 1)}
-            className='nav-item nav-item-has-children'
+            className='nav-item'
           >
-            <Link href='#' className='nav-link-item drop-trigger'>
-              Demo
-              <Image
-                className='dropdown-icon'
-                src='/assets/img_placeholder/icon-black-cheveron-right.svg'
-                alt='cheveron-right'
-                width={16}
-                height={16}
-              />
+            <Link href='/' className='nav-link-item drop-trigger'>
+              Home
+              
             </Link>
-            <ul
-              className={`sub-menu ${mobileSubMenu === 1 && 'active'}`}
-              id='submenu-1'
-            >
-              <li className='sub-menu--item'>
-                <Link href='/'>home 01</Link>
-              </li>
-              <li className='sub-menu--item'>
-                <Link href='/home-2'>home 02</Link>
-              </li>
-              <li className='sub-menu--item'>
-                <Link href='/home-3'>home 03</Link>
-              </li>
-              <li className='sub-menu--item'>
-                <Link href='/home-4'> home 04</Link>
-              </li>
-            </ul>
+            
           </li>
           <li className='nav-item'>
             <Link href='/about' className='nav-link-item'>
