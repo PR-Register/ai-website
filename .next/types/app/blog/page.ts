@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: D:\test project\ai-website\app\blog\page.jsx
+=======
+// File: D:\ai-website\app\blog\page.jsx
+>>>>>>> a3dea66932e55181ede1d640140969c84f60d64d
 import * as entry from '../../../../app/blog/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

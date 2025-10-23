@@ -1,8 +1,13 @@
 {
+<<<<<<< HEAD
   "/blog-details/page": "app/blog-details/page.js",
   "/login/page": "app/login/page.js",
   "/page": "app/page.js",
   "/home-4/page": "app/home-4/page.js",
   "/home-3/page": "app/home-3/page.js",
   "/home-2/page": "app/home-2/page.js"
+=======
+  "/blog/page": "app/blog/page.js",
+  "/page": "app/page.js"
+>>>>>>> a3dea66932e55181ede1d640140969c84f60d64d
 }
