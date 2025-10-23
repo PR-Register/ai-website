@@ -1,6 +1,3 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/blog-details/page": "app/blog-details/page.js",
-  "/blog/page": "app/blog/page.js",
   "/page": "app/page.js"
 }

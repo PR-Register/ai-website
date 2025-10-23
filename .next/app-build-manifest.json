@@ -15,16 +15,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
-    ],
-    "/blog/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/page.js"
-    ],
-    "/blog-details/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog-details/page.js"
     ]
   }
 }
